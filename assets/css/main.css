@@ -2563,43 +2563,43 @@ input, select, textarea {
 		}
 
 			.features li:nth-child(1) {
-				background-color: rgba(0, 0, 0, 0.035);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(2) {
-				background-color: rgba(0, 0, 0, 0.07);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(3) {
-				background-color: rgba(0, 0, 0, 0.105);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(4) {
-				background-color: rgba(0, 0, 0, 0.14);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(5) {
-				background-color: rgba(0, 0, 0, 0.175);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(6) {
-				background-color: rgba(0, 0, 0, 0.21);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(7) {
-				background-color: rgba(0, 0, 0, 0.245);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(8) {
-				background-color: rgba(0, 0, 0, 0.28);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(9) {
-				background-color: rgba(0, 0, 0, 0.315);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:nth-child(10) {
-				background-color: rgba(0, 0, 0, 0.35);
+				background-color: rgba(190, 197, 236, 0.07);
 			}
 
 			.features li:before {
@@ -2703,23 +2703,23 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0.075);
+			background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.225);
+			background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(0, 0, 0, 0.3);
+			background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 		}
 
 		.spotlight:nth-child(5) {
-			background-color: rgba(0, 0, 0, 0.375);
+			background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 		}
 
 		.spotlight:nth-child(6) {
@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #060b70;
 			color: #d3d4e4;
 		}
 
